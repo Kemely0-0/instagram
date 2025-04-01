@@ -43,7 +43,8 @@
             .quatro{
                 width:inherit;
                 height:450px;
-                background-color: rgb(151, 62, 148);
+                background-image: url("https://esbrasil.com.br/wp-content/uploads/2016/02/cafe_800.jpg");
+                background-size: cover;
                 color:black;
                 font-size:13px ;
                 font-family:arial ;
@@ -84,7 +85,7 @@
             .um1{
                 width:33.3%;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(123, 163, 112) ;
                 display:inline-block;
                 float:right;
                 color:black;
@@ -126,7 +127,7 @@
                 display:inline-block;
                 float:left;
                 border-radius: 100%;
-                margin-left:150px ;
+                margin-left:50px ;
                 color:black;
                 font-size:13px ;
                 font-family:arial ;
@@ -234,8 +235,8 @@
             .tres3{
                 width:2%;
                 height:inherit;
-                background-image:url("")
-                display:inline-block;
+                background-image:url("https://letseatit.com.br/cdn/shop/files/Kit-com-6-Xicaras-de-Cafe-Com-Pires-Porcelana-Egg-90ml.webp?v=1720099323&width=960");
+                display: inline-block;
                 float:right;
                 color:black;
                 font-size:13px ;
@@ -363,9 +364,9 @@
     <body>
         <div class="site">
             <div class="um">
-                <div class="um1">INSTAGRAM</div>
+                <div class="um1"></div>
                 <div class="um2">&</div>
-                <div class="um3"></div>
+                <div class="um3">INSTAGRAM</div>
             </div>
             <div class="dois">
                 <div class="dois1"></div>
@@ -387,7 +388,7 @@
                 <div class="cinco3"></div>
                 <div class="cinco4"></div>
             </div>
-            <div class="seis"></div>
+            <div class="seis">um little café quente!</div>
             <div class="sete">
                 <div class="sete1"></div>
                 <div class="sete2"></div>
